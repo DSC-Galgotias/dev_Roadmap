@@ -2,10 +2,9 @@
 
 # Rules of Program
 ### First Six Weeks
-In first week you will get to learn Java and GitHub, from Second week we will start android, every week is given for 
-one topic and in the end of every week you will get a MCQ test to check your progress. 
+In first week you will get to learn abot some basic things like git and github etc, from Second week you will start your core topic, every week is given for one or two topic and in the end of every week you will get a task to check your progress. 
 ### Last Three Weeks
-In last 3 weeks you will get a problem statement on which you have to make a  Android App. which is used to evaluation. 
+In last 3 weeks you will get a problem statement on which you have to make a Project. which is used for final evaluation. 
 
 ## Successful student in building App will get chance to win:-
 * 🥇 Google Home Speaker
